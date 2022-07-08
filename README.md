@@ -13,12 +13,18 @@ To get up and running follow these steps:
 FREE_OCR_API_KEY_2=<insert your OCR API here>
 RAPID_API_KEY=<insert your Mictosoft Translator Text API here>
 
-* run `npm start` from the frontend repo - then press i or a to run the app on the iOS simulator or the Android simulator respectively 
-* to run the app on mobile be sure to have the expo client installed on your mobile device and scan the QR code provided in the terminal 
-* 
-*
+* run `npm start` from the frontend repo - then press `i` or `a` to run the app on the iOS simulator or the Android simulator respectively .
+* to run the app on mobile be sure to have the expo client installed on your mobile device and scan the QR code provided in the terminal.
 
-## Tech Stack
+### APIs used
+Microsoft Translator Text:
+  * part of the Azure Cognitive Services, cloud based machince translation service.
+  
+ OCR Space Free OCR API:
+  * provides a simple way of parsing images and getting the extracted text results returned in a JSON format.
+  
+  
+### Tech Stack
 Front End:
 JavaScript
 React Native
@@ -28,8 +34,8 @@ Node.js
 Express 
 Sequelize
 
-## Demo
-I created a demonstration video where I do a brief walkthrough of the apps functionallity.
+### Demo
+I created a demonstration video where I do a brief walkthrough of the apps functionallity. <br />
 https://youtu.be/6dM_vt9v-dA
 
 
