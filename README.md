@@ -26,16 +26,15 @@ To get up and running follow these steps:
 ### OCR Space Free OCR API:
   * provides a simple way of parsing images and getting the extracted text results returned in a JSON format.
   
-  
 ## Tech Stack
 ### Front End:
-JavaScript
+JavaScript <br />
 React Native
 
 ### Back End:
-Node.js
-Express 
-Sequelize
+Node.js <br />
+Express <br />
+Sequelize <br />
 AWS with Amplify 
 
 ### Demo
