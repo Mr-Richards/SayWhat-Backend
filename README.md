@@ -10,9 +10,12 @@ To get up and running follow these steps:
 * sign up to recieve an api key with <a href="[https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-translator-text/](https://ocr.space/ocrapi)" target="_blank" rel="noreferrer">OCR Spaces Free OCR API <a />
 * create a .env file in the frontend repo with the following content:
   
-FREE_OCR_API_KEY_2=<insert your OCR API here>
-RAPID_API_KEY=<insert your Mictosoft Translator Text API here>
+FREE_OCR_API_KEY_2=#insert your OCR API here# <br /> 
+RAPID_API_KEY=#insert your Mictosoft Translator Text API here#
 
+(be sure that prettier doesnt format this file - no semi colon or spaces!)
+  
+* follow <a href="" target="_blank" rel="noreferrer">this<a /> link for a tutorial on how to set up AWS aplify for the authentication service for the back end
 * run `npm start` from the frontend repo - then press `i` or `a` to run the app on the iOS simulator or the Android simulator respectively .
 * to run the app on mobile be sure to have the expo client installed on your mobile device and scan the QR code provided in the terminal.
 
@@ -33,6 +36,7 @@ Back End:
 Node.js
 Express 
 Sequelize
+AWS with Amplify 
 
 ### Demo
 I created a demonstration video where I do a brief walkthrough of the apps functionallity. <br />
