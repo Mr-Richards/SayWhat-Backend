@@ -5,9 +5,9 @@ First project learning React Native
 
 ## Getting Started
 To get up and running follow these steps: 
-* run `npm install` from both backend and frontend repos ()
+* run `npm install` from both backend and frontend repos (<a href="" target="_blank" rel="noreferrer">backend<a />) 
 * subscribe and create an api key with Rapid API's <a href="https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-translator-text/" target="_blank" rel="noreferrer">Microsoft Translator Text API <a /> 
-* sign up to recieve an api key with <a href="[https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-translator-text/](https://ocr.space/ocrapi)" target="_blank" rel="noreferrer">OCR Spaces Free OCR API <a />
+* sign up to recieve an api key with <a href="https://ocr.space/ocrapi" target="_blank" rel="noreferrer">OCR Spaces Free OCR API <a />
 * create a .env file in the frontend repo with the following content:
   
       FREE_OCR_API_KEY_2=#insert your OCR API here#
