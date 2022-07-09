@@ -35,7 +35,7 @@ React Native
 Node.js <br />
 Express <br />
 PostgreSQL <br />
-Heroku
+Heroku <br />
 AWS with Amplify 
 
 ## Demo
