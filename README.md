@@ -42,6 +42,6 @@ I created a demonstration video where I do a brief walkthrough of the apps funct
 https://youtu.be/6dM_vt9v-dA
 
 ## Screenshots
-  <p> ![IMG_3863](https://user-images.githubusercontent.com/100375389/178104080-9cd298c9-9251-45e0-a393-30449eb37097.PNG)![IMG_3864](https://user-images.githubusercontent.com/100375389/178104088-2233ebfc-1771-4965-a454-f57ec45a63bd.PNG)![IMG_3877](https://user-images.githubusercontent.com/100375389/178104110-e5ff1052-ccd8-4599-b7bf-502afd85e86b.jpeg)![IMG_3867](https://user-images.githubusercontent.com/100375389/178104126-5d0d6d8f-cfa9-462a-971c-d652f80c763e.PNG)![IMG_3870](https://user-images.githubusercontent.com/100375389/178104131-e513c8d2-fa0c-4fa4-bdcc-dab4a3ae0ddd.PNG)![IMG_3872](https://user-images.githubusercontent.com/100375389/178104137-a4a74113-fef1-4410-9a4f-be97c151e7dc.PNG) <p />
+![IMG_3863](https://user-images.githubusercontent.com/100375389/178104080-9cd298c9-9251-45e0-a393-30449eb37097.PNG)![IMG_3864](https://user-images.githubusercontent.com/100375389/178104088-2233ebfc-1771-4965-a454-f57ec45a63bd.PNG)![IMG_3877](https://user-images.githubusercontent.com/100375389/178104110-e5ff1052-ccd8-4599-b7bf-502afd85e86b.jpeg)![IMG_3867](https://user-images.githubusercontent.com/100375389/178104126-5d0d6d8f-cfa9-462a-971c-d652f80c763e.PNG)![IMG_3870](https://user-images.githubusercontent.com/100375389/178104131-e513c8d2-fa0c-4fa4-bdcc-dab4a3ae0ddd.PNG)![IMG_3872](https://user-images.githubusercontent.com/100375389/178104137-a4a74113-fef1-4410-9a4f-be97c151e7dc.PNG)
 
 
