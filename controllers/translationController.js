@@ -10,8 +10,8 @@ exports.postTranslation = async (req, res) => {
       userid: req.body.userid,
     };
     await Translations.create(translation);
-    req.status(201);
-    req.send("Translation posted successfully");
+    res.status(201);
+    res.send("Translation posted successfully");
   } catch (error) {
     console.log(error, "internal server error");
     res.status(500);
