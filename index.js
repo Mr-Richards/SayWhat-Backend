@@ -9,7 +9,7 @@ const router = require("./router");
 require("dotenv").config("./.env");
 
 const PORT = process.env.PORT || 3000;
-const HOST = process.env.HOST || localhost;
+const HOST = process.env.HOST || "localhost";
 
 const app = express();
 
